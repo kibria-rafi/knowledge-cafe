@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2023-12-25",
+      "reading_time": "10 minutes",
+      "hashtag": "#greatgatsby #classic #americanliterature"
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": "12 minutes",
+      "hashtag": "#tokillamockingbird #classic #americanliterature"
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "1984",
+      "author": "George Orwell",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-02-01",
+      "reading_time": "15 minutes",
+      "hashtag": "#1984 #dystopia #classic"
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "18 minutes",
+      "hashtag": "#prideandprejudice #classic #romance"
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-04-20",
+      "reading_time": "20 minutes",
+      "hashtag": "#lordoftherings #fantasy #classic"
+    }
+  ]
