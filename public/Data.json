@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/cover1.jpg",
+      "cover": "https://i.ibb.co.com/SP4wpPg/stock-vector-vector-brochure-flyer-magazine-cover-poster-template-size-a-1191796204.jpg",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://i.ibb.co.com/sC4n5q1/o-MNPp-ACz-Tt-O5-OVERUZwh3-Q.webp",
       "posted_date": "2023-12-25",
       "reading_time": "10 minutes",
       "hashtag": "#greatgatsby #classic #americanliterature"
     },
     {
       "id": 2,
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "https://i.ibb.co.com/YWsLJ93/stock-vector-vector-brochure-flyer-magazine-cover-poster-template-a-635228792.jpg",
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://i.ibb.co.com/sC4n5q1/o-MNPp-ACz-Tt-O5-OVERUZwh3-Q.webp",
       "posted_date": "2024-01-15",
       "reading_time": "12 minutes",
       "hashtag": "#tokillamockingbird #classic #americanliterature"
     },
     {
       "id": 3,
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "https://i.ibb.co.com/GW4bq9L/vector-brochure-flyer-magazine-cover-260nw-690976855.webp",
       "title": "1984",
       "author": "George Orwell",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://i.ibb.co.com/sC4n5q1/o-MNPp-ACz-Tt-O5-OVERUZwh3-Q.webp",
       "posted_date": "2024-02-01",
       "reading_time": "15 minutes",
       "hashtag": "#1984 #dystopia #classic"
     },
     {
       "id": 4,
-      "cover": "https://example.com/cover4.jpg",
+      "cover": "https://i.ibb.co.com/0r7PC9j/vector-brochure-flyer-magazine-cover-260nw-453696940.webp",
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
-      "author_img": "https://example.com/author4.jpg",
+      "author_img": "https://i.ibb.co.com/sC4n5q1/o-MNPp-ACz-Tt-O5-OVERUZwh3-Q.webp",
       "posted_date": "2024-03-10",
       "reading_time": "18 minutes",
       "hashtag": "#prideandprejudice #classic #romance"
     },
     {
       "id": 5,
-      "cover": "https://example.com/cover5.jpg",
+      "cover": "https://i.ibb.co.com/1s1hKg1/vector-brochure-flyer-magazine-cover-600w-407640361.webp",
       "title": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
-      "author_img": "https://example.com/author5.jpg",
+      "author_img": "https://i.ibb.co.com/sC4n5q1/o-MNPp-ACz-Tt-O5-OVERUZwh3-Q.webp",
       "posted_date": "2024-04-20",
       "reading_time": "20 minutes",
       "hashtag": "#lordoftherings #fantasy #classic"
